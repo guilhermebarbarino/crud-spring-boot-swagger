@@ -1,10 +1,11 @@
 ## Technologies Used
 
-- Java
+- Java 17 JDK
 - Spring Boot
 - PostgreSQL
 - Spring Data JPA
 - Springdoc (Swagger)
+- IDE STS (qualquer uma de sua preferencia)
 
 ## Getting Started
 
